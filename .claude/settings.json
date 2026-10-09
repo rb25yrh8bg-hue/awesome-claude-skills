@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx hyperframes:*)",
+      "Bash(npx -y hyperframes:*)",
+      "Bash(npx skills add:*)",
+      "Bash(npx -y skills add:*)",
+      "Bash(higgsfield:*)"
+    ]
+  }
+}
